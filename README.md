@@ -3,7 +3,7 @@
 This project was developed under a UNDP-supported initiative in collaboration with SKTLive Ghana.  
 Due to company confidentiality, not all design files, source code, and technical documentation can be disclosed publicly.  
 
-This repository serves as a **project overview and demonstration** of the system’s design, functionality, and impact.  
+This repository serves as a **project overview and demonstration**  
 
 
 
