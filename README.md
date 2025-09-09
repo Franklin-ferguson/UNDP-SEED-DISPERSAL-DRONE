@@ -69,7 +69,7 @@ Traditional tree planting methods are labor-intensive, time-consuming, and often
 ---
 
 ## 📷 Media & Demonstrations  
-!
+![Alt text](https://github.com/Franklin-ferguson/UNDP-SEED-DISPERSAL-DRONE/blob/main/PHOTO-2025-09-09-13-47-36%202.jpg)
 (Add images, videos, or GIFs of the drone, module, and field trials here)  
 
 ---
