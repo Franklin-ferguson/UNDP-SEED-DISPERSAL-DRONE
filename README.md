@@ -69,6 +69,7 @@ Traditional tree planting methods are labor-intensive, time-consuming, and often
 ---
 
 ## 📷 Media & Demonstrations  
+!
 (Add images, videos, or GIFs of the drone, module, and field trials here)  
 
 ---
