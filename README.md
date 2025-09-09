@@ -19,7 +19,7 @@ Traditional tree planting methods are labor-intensive, time-consuming, and often
 ## 🎯 Objectives  
 - Develop a **customized seed dispersal module** adaptable to multi-rotor UAV platforms.  
 - Integrate **microcontroller-based automation** for precise seed release.  
-- Design and implement a **user-friendly mobile/desktop application** for mission configuration and real-time monitoring.  
+- Design and implement a **user-friendly mobile application** for mission configuration and real-time monitoring.  
 - Validate the system through **field experiments**, testing dispersal efficiency, flight stability, and terrain adaptability.  
 
 ---
